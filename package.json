@@ -1,0 +1,19 @@
+{
+  "name": "jquery-youtube-background",
+  "version": "1.0.0",
+  "description": "Inspired by [Tubular] (http://www.seanmccambridge.com/tubular/)",
+  "main": "src/jquery.youtubebackground.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sabrehagen/jQuery.YoutubeBackground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sabrehagen/jQuery.YoutubeBackground/issues"
+  },
+  "homepage": "https://github.com/sabrehagen/jQuery.YoutubeBackground#readme"
+}
